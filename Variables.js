@@ -38,3 +38,16 @@ var myName = "Your name"; // Declaring a variable myName to a string literal "Yo
 var myFirstName = "Kwaku";
 var myLastName = "Ananse";
 
+// Uninitialized variables are undefined i.e concatenates to undefined
+
+//example 
+var a;
+var b;
+var c;
+
+//Initilized variables are defined
+//example
+var a = 5;
+var b = 10;
+var c = "I am a";
+
