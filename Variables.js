@@ -30,3 +30,11 @@ var myVar = 0; // Creates a new variable my var and initialisez it to 0
 
 //example
 var a = 9; // Creates a new variable a and initializes it to 9
+
+//Declaring a String Variable
+var myName = "Your name"; // Declaring a variable myName to a string literal "Your name"
+
+//example
+var myFirstName = "Kwaku";
+var myLastName = "Ananse";
+
