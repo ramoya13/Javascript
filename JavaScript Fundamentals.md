@@ -1,7 +1,26 @@
 # Javascript Fundamentals
 
+## Types
+
+-string "Any text"
+-number  123.45
+-boolean true or false
+-undefined undefined
+-symbol symbol{"something"}
+-object {key: "value"}
+>array {1, "text", false}
+>function function name() {}
+
+## operators
+
+Operators are reserved words that perform actions on values
+= + - / *
+/*A group of words, numbers and operators that perform tasks is a **statement**
+A group of references and values combined  with operators wich result in a value is an **expression** */
+
 ## Variables
 
+A named reference to a value
 Allow computers to store and manipulate data in a dynamic fashion /*use a label to point to the data*/
 -ie var ourName;
 store values to refer to it later in the code
