@@ -1,5 +1,14 @@
 # Javascript Fundamentals
 
+## <script>
+  Can be used to insert javascript into html documents
+  Complex scripts reside outside html
+  <script>
+    alert('Hello, World');
+  </script>
+  
+  
+
 ## Types
 
 -string "Any text"
