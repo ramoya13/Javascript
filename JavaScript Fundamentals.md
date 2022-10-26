@@ -1,5 +1,6 @@
 # Javascript Fundamentals
 
+
 ## <script>
   Can be used to insert javascript into html documents
   Complex scripts reside outside html
@@ -7,6 +8,12 @@
     alert('Hello, World');
   </script>
   
+## statements
+  syntax constructs and commands that perform functions
+  i.e alert('Hello, World')
+  Usually writenn on separate lines for readability
+  
+  ## 'use strict'/ the modern way -supports classes and modules
   
 
 ## Types
