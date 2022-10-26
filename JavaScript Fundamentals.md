@@ -42,6 +42,7 @@ Allow computers to store and manipulate data in a dynamic fashion /*use a label 
 store values to refer to it later in the code
 -var
 -let
+  -value can change any time we want
 -const /*Immutable: ie their values canot change*/
 /*Initialization-Declearing and giving a variable its value*/
 
