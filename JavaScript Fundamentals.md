@@ -17,7 +17,7 @@
   
 
 ## Types
-
+-Javascript types are dynamic i.e same variable can be use tostore different types of data
 -string "Any text"
   -set of character enclosed in a quotation
 -number  123.45
@@ -27,7 +27,8 @@
   **nul** -signifies intentionl absence of data
   **typeof** function returns the type of variable
 -object {key: "value"}
->array {1, "text", false}
+  -objects are written with curly brackets
+>array {1, "text", false} /*array items are separated by a comma*/ and square brackets are used house the array items
 >function function name() {}
 
 ## operators
