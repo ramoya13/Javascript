@@ -19,10 +19,13 @@
 ## Types
 
 -string "Any text"
+  -set of character enclosed in a quotation
 -number  123.45
 -boolean true or false
--undefined undefined
+-undefined undefined - variables with no assigned values
 -symbol symbol{"something"}
+  **nul** -signifies intentionl absence of data
+  **typeof** function returns the type of variable
 -object {key: "value"}
 >array {1, "text", false}
 >function function name() {}
