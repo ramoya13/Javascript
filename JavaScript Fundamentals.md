@@ -17,7 +17,7 @@
   
 
 ## Types
--Javascript types are dynamic i.e same variable can be use tostore different types of data
+-Javascript types are dynamic i.e same variable can be use to store different types of data
 -string "Any text"
   -set of character enclosed in a quotation
 -number  123.45
