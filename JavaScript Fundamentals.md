@@ -37,6 +37,8 @@ Operators are reserved words that perform actions on values
 = + - / *
 /*A group of words, numbers and operators that perform tasks is a **statement**
 A group of references and values combined  with operators wich result in a value is an **expression** */
+  
+## Logical Operators
 
 ## Variables
 
