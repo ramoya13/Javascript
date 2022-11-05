@@ -31,7 +31,7 @@
 >array {1, "text", false} /*array items are separated by a comma*/ and square brackets are used house the array items
 >function function name() {}
 
-## operators
+## Operators
 
 Operators are reserved words that perform actions on values
 = + - / *
@@ -39,6 +39,16 @@ Operators are reserved words that perform actions on values
 A group of references and values combined  with operators wich result in a value is an **expression** */
   
 ## Logical Operators
+  
+  && (Logical AND)
+  >if both the opeands are non zero then the condition becomes true
+  
+  ||(Logical OR)
+  >if any of the operands are non zero then the condition becomes true
+  
+  !(Logical NOT)
+  >Reverse the logical state of the operand i.e if a condition is true the logical not makes t false
+  
 
 ## Variables
 
