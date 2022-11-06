@@ -3,7 +3,7 @@
 
 ## <script>
   Can be used to insert javascript into html documents
-  Complex scripts reside outside html
+  Complex scripts reside outside html in .js files
   <script>
     alert('Hello, World');
   </script>
@@ -17,7 +17,7 @@
   
 
 ## Types
--Javascript types are dynamic i.e same variable can be use to store different types of data
+-Javascript types are dynamic i.e same variable can be used to store different types of data
 -string "Any text"
   -set of character enclosed in a quotation
 -number  123.45
